@@ -23,7 +23,7 @@ HrSystemRepository hrSystemReposiory;
 
      System.out.println("##### /hrSystem/stylistSelection  called #####");
      // 스타일리스트 명을 조회한다 - 데이터 미존재시 Error 발생
-     hrSystemReposiory.findByName(request.getParameter("stylistName"));
+     //hrSystemReposiory.findByName(request.getParameter("stylistName"));
 
 
  }

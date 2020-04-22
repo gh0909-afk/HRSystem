@@ -1,0 +1,8 @@
+HairShop\config\kafka\KafkaProcessor.class
+HairShop\HrSystemController.class
+HairShop\Application.class
+HairShop\PolicyHandler.class
+HairShop\HrSystem.class
+HairShop\HrSystemRepository.class
+HairShop\AbstractEvent.class
+HairShop\StylistSelected.class
